@@ -7,6 +7,6 @@
     "viem": "^2.7.10"
   },
   "scripts": {
-    "dev": "ts-node main.ts"
+    "run": "ts-node main.ts"
   }
 }
