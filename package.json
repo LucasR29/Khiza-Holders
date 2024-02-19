@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/lodash": "^4.14.202",
+    "@types/node": "^20.11.19",
+    "axios": "^1.6.7",
+    "lodash": "^4.17.21",
+    "viem": "^2.7.10"
+  },
+  "scripts": {
+    "dev": "ts-node main.ts"
+  }
+}
